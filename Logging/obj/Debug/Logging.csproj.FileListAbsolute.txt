@@ -1,0 +1,6 @@
+D:\DevSource\Lib\Logging\bin\Debug\DataManager.Logging.dll
+D:\DevSource\Lib\Logging\bin\Debug\DataManager.Logging.pdb
+D:\DevSource\Lib\Logging\obj\Debug\DataManager.Logging.dll
+D:\DevSource\Lib\Logging\obj\Debug\DataManager.Logging.pdb
+D:\DevSource\Lib\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+D:\DevSource\Lib\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\DevSource\DataManagement\Network\bin\Debug\DataManagerNetwork.dll
+D:\DevSource\DataManagement\Network\bin\Debug\DataManagerNetwork.pdb
+D:\DevSource\DataManagement\Network\obj\Debug\DataManagerNetwork.dll
+D:\DevSource\DataManagement\Network\obj\Debug\DataManagerNetwork.pdb
+D:\DevSource\DataManagement\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+D:\DevSource\Lib\Network\bin\Debug\DataManager.Network.dll
+D:\DevSource\Lib\Network\bin\Debug\DataManager.Network.pdb
+D:\DevSource\Lib\Network\bin\Debug\Newtonsoft.Json.dll
+D:\DevSource\Lib\Network\bin\Debug\Newtonsoft.Json.pdb
+D:\DevSource\Lib\Network\bin\Debug\Newtonsoft.Json.xml
+D:\DevSource\Lib\Network\obj\Debug\DataManager.Network.dll
+D:\DevSource\Lib\Network\obj\Debug\DataManager.Network.pdb
+D:\DevSource\Lib\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+D:\DevSource\Lib\Network\obj\Debug\Network.csproj.CopyComplete
+D:\DevSource\Lib\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache

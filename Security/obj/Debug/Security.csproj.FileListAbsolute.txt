@@ -1,0 +1,6 @@
+D:\DevSource\Lib\Security\bin\Debug\DataManager.Security.dll
+D:\DevSource\Lib\Security\bin\Debug\DataManager.Security.pdb
+D:\DevSource\Lib\Security\obj\Debug\DataManager.Security.dll
+D:\DevSource\Lib\Security\obj\Debug\DataManager.Security.pdb
+D:\DevSource\Lib\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+D:\DevSource\Lib\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache

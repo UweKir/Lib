@@ -1,0 +1,9 @@
+D:\DevSource\Lib\HouseKeeping\bin\Debug\Ionic.Zip.dll
+D:\DevSource\Lib\HouseKeeping\bin\Debug\DataManager.HouseKeeping.dll.config
+D:\DevSource\Lib\HouseKeeping\bin\Debug\DataManager.HouseKeeping.dll
+D:\DevSource\Lib\HouseKeeping\bin\Debug\DataManager.HouseKeeping.pdb
+D:\DevSource\Lib\HouseKeeping\obj\Debug\DataManager.HouseKeeping.dll
+D:\DevSource\Lib\HouseKeeping\obj\Debug\DataManager.HouseKeeping.pdb
+D:\DevSource\Lib\HouseKeeping\obj\Debug\HouseKeeping.csproj.CoreCompileInputs.cache
+D:\DevSource\Lib\HouseKeeping\obj\Debug\HouseKeeping.csproj.CopyComplete
+D:\DevSource\Lib\HouseKeeping\obj\Debug\HouseKeeping.csprojResolveAssemblyReference.cache
